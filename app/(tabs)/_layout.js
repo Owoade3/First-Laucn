@@ -92,7 +92,7 @@ const SignUpScreen = () => {
       </Text>
       <View>
       <Text>Name:{name}</Text>
-      <Text>Email:{email}</Text>
+      <Text>EmailWord:{email}</Text>
       <Text>Password:{password}</Text>
       <Text>Confirm Password:{confirmPassword}</Text>
       </View>
